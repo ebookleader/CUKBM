@@ -1,0 +1,118 @@
+@charset "EUC-KR";
+@import url('https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css');
+    @import url('https://fonts.googleapis.com/css?family=Passion+One:400,700&display=swap');
+.container {
+  margin-top: 40px; 
+}
+
+.wrap {
+  position: relative;
+  -webkit-transition: all 0.3s ease-out;  
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+.wrap.active {
+  left: 14em;
+}
+a.side-menu-link {
+  float: left;
+  display: block;
+  padding: 1em;
+}
+
+@media screen and (max-width: 48.063em) {
+  .js .oc {
+    width: auto;
+    position: absolute;
+    top: 0;
+    left: -14em;
+  }
+}
+
+@media screen and (min-width: 48.25em) {
+  a.side-menu-link {
+    display: none;
+  }
+  .wrap.active {
+    left: 0;
+  }
+}
+header {
+	float: right;
+	font-size:17.5px;
+	padding:24px 15px;
+}
+nav a {
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: black;
+  transition: opacity .2s ease-in-out;
+}
+nav a:hover, nav a:focus {
+  opacity: 1;
+  text-decoration: none;
+}
+div.logo{
+	height: 30vh;
+  background-image: url("../img/front/pic6_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div.logo span{
+	margin: 0;
+  	font-size: 600%;
+  	text-align: center;
+ 	line-height: 1;
+ 	padding-top: 80px;
+ 	display: block;
+  	font-weight: 400;
+  	color: #fff;
+  	letter-spacing: 4px;
+  	font-family: 'Passion One', cursive;
+}
+li.nav-header{
+	font-size:13px;
+}
+div.info_fail{
+	padding-top:30px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-size:23px;
+	font-weight:600;
+	color:#5d5d5d;
+}
+div.info_go_fail{
+	position:relative;
+	left:115%;
+	text-align: center;
+	background:black;
+	color:white;
+	font-size: 20px;
+	font-weight: 400;
+	border-radius: 10px;
+	border: 1.5px solid black;
+	cursor:pointer;
+	display:table-cell;
+	vertical-align: middle;
+	opacity:0.8;
+	height:40px;
+	width: 230px;
+}
+
+div.info_go_fail a{
+	color: white;
+	text-decoration: none;
+}
+div.info_go_fail:hover{
+	background-color:#FFAB00;
+	opacity: 0.7;
+	border: 1.5px solid white;
+}
+div.info_inner{
+	padding-left: 30px;
+}

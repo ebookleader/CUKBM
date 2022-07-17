@@ -1,0 +1,152 @@
+@charset "EUC-KR";
+@import url('https://fonts.googleapis.com/css?family=Passion+One:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sarpanch:900');
+* {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  font-kerning: auto;
+}
+html {
+  font-size: 10pt;
+  line-height: 1.4;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+}
+body {
+  margin: 0;
+  background: #eee;
+}
+section {
+  height: 100vh;
+  background-image: url("../img/front/pic6_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Passion One', cursive;
+}
+
+header {
+  width: 100%;
+  padding: 1em;
+  font-size: 140%;
+  position: absolute;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s ease-in-out;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: black;
+  transition: opacity .2s ease-in-out;
+}
+nav a:hover, nav a:focus {
+  opacity: 1;
+}
+article {
+  margin: 5em auto 0;
+  padding: 1em;
+  font-size: 140%;
+  max-width: 1200px;
+  background: white;
+  box-shadow: rgba(0,0,0,.05) 0 3px 15px;
+}
+
+@media (min-width: 500px) {
+  header {
+    text-align: left;
+  }
+  nav {
+    float: right;
+  }
+  article {
+    margin: 3.5em auto 0;
+    padding: 2em;
+  }
+  
+}
+@media (min-width: 800px) {
+  article {
+    margin: 3.5em auto;
+  }
+}
+
+div.logo{
+	margin: 0;
+  	font-size: 420%;
+  	text-align: center;
+ 	line-height: 1;
+ 	padding-top: 180px;
+ 	display: block;
+  	font-weight: 400;
+  	color: #fff;
+  	letter-spacing: 2px;
+}
+div.logo_start{
+	margin: 0;
+  	font-size: 320%;
+  	text-align: center;
+ 	line-height: 1;
+ 	padding-top: 6px;
+ 	display: block;
+  	font-weight: 400;
+	margin-top: 50px;
+	letter-spacing: 2px;
+	
+}
+
+div.logo_start a{
+	color: white;
+	text-decoration: none;
+	padding : 4px;
+	border: 3px solid white;
+}
+
+div.logo_start a:hover{
+	color: white;
+	border: none;
+}
+article.mpic{
+  width: 700px;
+  text-align: center;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+}
+article.mpic img {
+  max-width: 100%;
+}
+div.text{
+	text-align: left;
+	padding-left: 60px; 
+}
+div.go {	
+  background: gray;
+  border: 0;
+  color: white;
+  padding: 8px;
+  width: 55%;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom:20px;
+  }
+  div.go a{
+  	text-decoration: none;
+  	color: white;
+  }
+  div.text p{
+  	font-size: 21px;
+  }
+  h1.tt {
+  transform: skew(-12 deg) rotate(-12 deg);
+  grid-area: text;
+  font-family: 'Sarpanch', sans-serif;
+  font-size: 5em;
+  padding-left: 235px;
+  color: #1d9099;
+  text-shadow: 0.7vmin 0.7vmin 0 #E79C10, -0.7vmin -0.7vmin 0 #D53A33;
+}
+  
