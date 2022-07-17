@@ -1,2 +1,32 @@
 # CUKBM
- 
+ ![CUKBM PPT_page-0001](https://user-images.githubusercontent.com/59174298/179390326-19d87d69-5a04-452f-bfa6-5fb94be7787c.jpg)
+ ![CUKBM PPT_page-0002](https://user-images.githubusercontent.com/59174298/179390330-9e55044b-3a29-4e31-9fb6-029ac56f9d26.jpg)
+![CUKBM PPT_page-0003](https://user-images.githubusercontent.com/59174298/179390380-23a98a4e-c9f9-426c-89ff-773d2bc15192.jpg)
+![CUKBM PPT_page-0004](https://user-images.githubusercontent.com/59174298/179390381-6bf873e1-8d63-4bcd-acd1-d6da82c86b2e.jpg)
+![CUKBM PPT_page-0005](https://user-images.githubusercontent.com/59174298/179390341-94161139-42ca-4959-a191-89721128e424.jpg)
+![CUKBM PPT_page-0006](https://user-images.githubusercontent.com/59174298/179390343-fc2b50ff-60c4-4b4a-8603-24ea04a1c384.jpg)
+![CUKBM PPT_page-0007](https://user-images.githubusercontent.com/59174298/179390344-1fc9de50-4519-4858-956f-05db1a8964bc.jpg)
+![CUKBM PPT_page-0008](https://user-images.githubusercontent.com/59174298/179390345-e773bbbc-0bd1-4f37-8104-b7d19472e8ca.jpg)
+![CUKBM PPT_page-0009](https://user-images.githubusercontent.com/59174298/179390347-ceeba4f3-6985-46c6-a9f7-2e48d82808ad.jpg)
+![CUKBM PPT_page-0010](https://user-images.githubusercontent.com/59174298/179390349-ccf410c0-de79-4b01-b717-51e703acc84d.jpg)
+![CUKBM PPT_page-0011](https://user-images.githubusercontent.com/59174298/179390351-1e6ca394-2ce4-4676-9cb5-8cc43f7ac830.jpg)
+![CUKBM PPT_page-0012](https://user-images.githubusercontent.com/59174298/179390354-35ee97f9-1394-463a-9c7f-3319d4b1579e.jpg)
+![CUKBM PPT_page-0013](https://user-images.githubusercontent.com/59174298/179390359-76350fa3-c8f7-45bd-a34f-a3f86fad8503.jpg)
+![CUKBM PPT_page-0014](https://user-images.githubusercontent.com/59174298/179390362-e503408a-2d77-4512-997a-21ec4e7eaa5f.jpg)
+![CUKBM PPT_page-0015](https://user-images.githubusercontent.com/59174298/179390365-f6e35b8d-8188-4369-a90a-a9e29a5fa815.jpg)
+![CUKBM PPT_page-0016](https://user-images.githubusercontent.com/59174298/179390399-7ab4064c-185e-484f-b909-0680d22e60c7.jpg)
+![CUKBM PPT_page-0017](https://user-images.githubusercontent.com/59174298/179390403-d999decf-ba62-4190-8396-a407e2b253e5.jpg)
+![CUKBM PPT_page-0018](https://user-images.githubusercontent.com/59174298/179390405-9310840b-741f-4ffb-a1fe-c9a34ccb449d.jpg)
+![CUKBM PPT_page-0019](https://user-images.githubusercontent.com/59174298/179390408-621877ad-e257-4c07-93fa-0960292d13e9.jpg)
+![CUKBM PPT_page-0020](https://user-images.githubusercontent.com/59174298/179390409-2ee41268-b9e1-4097-810c-f830087e8d16.jpg)
+![CUKBM PPT_page-0021](https://user-images.githubusercontent.com/59174298/179390413-341a458b-ed1d-4f88-a5f5-e8443dba240e.jpg)
+![CUKBM PPT_page-0022](https://user-images.githubusercontent.com/59174298/179390417-3aa49ca1-a74c-4a22-9e79-2ccb82e57821.jpg)
+![CUKBM PPT_page-0023](https://user-images.githubusercontent.com/59174298/179390419-6d339edd-53db-4e21-9d2a-af80dc3c4e82.jpg)
+![CUKBM PPT_page-0024](https://user-images.githubusercontent.com/59174298/179390420-2bc767bc-126c-441a-9e84-35ef92a79728.jpg)
+![CUKBM PPT_page-0025](https://user-images.githubusercontent.com/59174298/179390422-b1f44e56-51b0-45bb-86e0-1ee3d4be8b61.jpg)
+![CUKBM PPT_page-0026](https://user-images.githubusercontent.com/59174298/179390423-6467f119-fc3c-424e-aebb-c5a55da681e1.jpg)
+![CUKBM PPT_page-0027](https://user-images.githubusercontent.com/59174298/179390427-825a3a24-36cd-4ded-bd46-b065e9394149.jpg)
+![CUKBM PPT_page-0028](https://user-images.githubusercontent.com/59174298/179390430-b01ec45f-61d8-4214-ad6b-0392936f27dd.jpg)
+
+
+
